@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="textColor">#177F94</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="bottomNavigation">#8B445BD8</color>
+    <color name="appBackGround">#eeeeee</color>
+    <color name="viewColor">#03a9f4</color>
+    <color name="viewBackground">#FFF</color>
+    <color name="materialViewColor">#e0e0e0</color>
+    <color name="btnTextColor">#03a9f4</color>
+    <color name="amount">#F0AD72</color>
+    <color name="green">#206828</color>
+</resources>
